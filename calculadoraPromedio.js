@@ -1,5 +1,5 @@
 // Función para ingresar una nota en el rango de 0 a 10
-const prompt=require("prompt-sync")({sigint:true}); 
+
 function ingresarNota(mensaje) {
     let nota;
     do {
